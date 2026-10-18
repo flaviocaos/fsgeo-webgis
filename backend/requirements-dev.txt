@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest==9.1.1
+moto[server]==5.2.4
+mapbox-vector-tile==2.2.0
